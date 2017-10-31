@@ -1,4 +1,4 @@
-from Cmd import Cmd
-
-cmd = Cmd()
-cmd.start()
+class Pis:
+    def __init__(self):
+        this.products = []
+    
