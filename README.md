@@ -1,6 +1,8 @@
 # CS408-PIS
 Product Inventory System - project for CS408
 
+Run:
+`python3 main.py`
 
 - Storing products
 - Categories?
